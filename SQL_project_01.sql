@@ -1,4 +1,4 @@
--- project_01_sk --
+
 
 -- 1. Create new schema as ecommerce.
 
